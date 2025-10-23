@@ -87,8 +87,9 @@ a:visited {
 
 #pages img {
     margin: 25% 50px;
-    border: 3px solid black;
     border-radius: 50%;
+    height: 154px;
+    width: 154px;
 }
 
 .about p {
