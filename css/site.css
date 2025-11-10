@@ -95,14 +95,12 @@ a:visited {
 .about p {
     font-size: 35px;
     text-align: justify;
-    max-width: 65%;
+    max-width: 100%;
     line-height: 160%;
 }
 
 .txt {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    width: 100%;
 }
 
 iframe {
