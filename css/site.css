@@ -125,3 +125,24 @@ a:visited {
 #proj-desc-left {
     max-width: 50%;
 }
+
+.contact h2 {
+    font-size: 40px;
+    font-family: "main";
+    font-weight: 300;
+}
+
+.contact h3 {
+    font-size: 25px;
+    font-family: "main";
+    font-weight: 100;
+}
+
+.contact h2, .contact h3, .contact p{
+    margin-left: 1.5%;
+}
+
+.contact a, .contact p {
+    margin-left: 3%;
+    font-family: "serif";
+}
