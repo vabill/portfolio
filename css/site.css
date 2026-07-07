@@ -145,4 +145,5 @@ a:visited {
 .contact a, .contact p {
     margin-left: 3%;
     font-family: "serif";
+    font-size: 20px;
 }
