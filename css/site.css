@@ -103,9 +103,25 @@ a:visited {
     width: 100%;
 }
 
-iframe {
+#resume {
     display: block;
     margin: 0 auto;
     width: 70%;
     height: 700px;
+}
+
+#frame-left {
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+}
+
+#proj-left {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 40px;
+}
+
+#proj-desc-left {
+    max-width: 50%;
 }
